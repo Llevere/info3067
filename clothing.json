@@ -1,79 +1,17 @@
-{
-  "branches": [
-    {
-      "branchName": "Branch 1",
-      "products": [
-        {
-          "brand": "Brand A",
-          "product": "Product 1"
-        },
-        {
-          "brand": "Brand B",
-          "product": "Product 2"
-        },
-        {
-          "brand": "Brand C",
-          "product": "Product 3"
-        },
-        {
-          "brand": "Brand D",
-          "product": "Product 4"
-        },
-        {
-          "brand": "Brand E",
-          "product": "Product 5"
-        }
-      ]
-    },
-    {
-      "branchName": "Branch 2",
-      "products": [
-        {
-          "brand": "Brand F",
-          "product": "Product 1"
-        },
-        {
-          "brand": "Brand G",
-          "product": "Product 2"
-        },
-        {
-          "brand": "Brand H",
-          "product": "Product 3"
-        },
-        {
-          "brand": "Brand I",
-          "product": "Product 4"
-        },
-        {
-          "brand": "Brand J",
-          "product": "Product 5"
-        }
-      ]
-    },
-    {
-      "branchName": "Branch 3",
-      "products": [
-        {
-          "brand": "Brand K",
-          "product": "Product 1"
-        },
-        {
-          "brand": "Brand L",
-          "product": "Product 2"
-        },
-        {
-          "brand": "Brand M",
-          "product": "Product 3"
-        },
-        {
-          "brand": "Brand N",
-          "product": "Product 4"
-        },
-        {
-          "brand": "Brand O",
-          "product": "Product 5"
-        }
-      ]
-    }
-  ]
-}
+[
+  { "BRAND":"Nike", "ITEM":"Sweater", "COLOUR":"Black", "SIZE": "L" },
+  { "BRAND":"Nike", "ITEM":"Sweatpants", "COLOUR":"Red", "SIZE": "S" },
+  { "BRAND":"Nike", "ITEM":"T-Shirt", "COLOUR":"White", "SIZE": "XL" },
+  { "BRAND":"Nike", "ITEM":"Sweater", "COLOUR":"Green", "SIZE": "XL" },
+  { "BRAND":"Nike", "ITEM":"Socks", "COLOUR":"White", "SIZE": "M" },
+  { "BRAND":"Under Armour", "ITEM":"Socks", "COLOUR":"White", "SIZE": "L" },
+  { "BRAND":"Under Armour", "ITEM":"Shorts", "COLOUR":"Black", "SIZE": "XXL" },
+  { "BRAND":"Under Armour", "ITEM":"Sweater", "COLOUR":"White", "SIZE": "XS" },
+  { "BRAND":"Under Armour", "ITEM":"Hoodie", "COLOUR":"Grey", "SIZE": "M" },
+  { "BRAND":"Under Armour", "ITEM":"Shoes", "COLOUR":"Yellow", "SIZE": "5 M" },
+  { "BRAND":"Champion", "ITEM":"Socks", "COLOUR":"White", "SIZE": "XS" },
+  { "BRAND":"Champion", "ITEM":"Sweatpants", "COLOUR":"Black", "SIZE": "XL" },
+  { "BRAND":"Champion", "ITEM":"Hat", "COLOUR":"Red", "SIZE": "L" },
+  { "BRAND":"Champion", "ITEM":"Sweater", "COLOUR":"White", "SIZE": "L" },
+  { "BRAND":"Champion", "ITEM":"T Shirt", "COLOUR":"Red", "SIZE": "M" },
+]
