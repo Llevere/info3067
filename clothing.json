@@ -1,0 +1,79 @@
+{
+  "branches": [
+    {
+      "branchName": "Branch 1",
+      "products": [
+        {
+          "brand": "Brand A",
+          "product": "Product 1"
+        },
+        {
+          "brand": "Brand B",
+          "product": "Product 2"
+        },
+        {
+          "brand": "Brand C",
+          "product": "Product 3"
+        },
+        {
+          "brand": "Brand D",
+          "product": "Product 4"
+        },
+        {
+          "brand": "Brand E",
+          "product": "Product 5"
+        }
+      ]
+    },
+    {
+      "branchName": "Branch 2",
+      "products": [
+        {
+          "brand": "Brand F",
+          "product": "Product 1"
+        },
+        {
+          "brand": "Brand G",
+          "product": "Product 2"
+        },
+        {
+          "brand": "Brand H",
+          "product": "Product 3"
+        },
+        {
+          "brand": "Brand I",
+          "product": "Product 4"
+        },
+        {
+          "brand": "Brand J",
+          "product": "Product 5"
+        }
+      ]
+    },
+    {
+      "branchName": "Branch 3",
+      "products": [
+        {
+          "brand": "Brand K",
+          "product": "Product 1"
+        },
+        {
+          "brand": "Brand L",
+          "product": "Product 2"
+        },
+        {
+          "brand": "Brand M",
+          "product": "Product 3"
+        },
+        {
+          "brand": "Brand N",
+          "product": "Product 4"
+        },
+        {
+          "brand": "Brand O",
+          "product": "Product 5"
+        }
+      ]
+    }
+  ]
+}
