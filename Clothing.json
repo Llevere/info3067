@@ -8,6 +8,8 @@
     "MSRP":100.0,
     "QtyOnHand":28,
     "QtyOnBackOrder":33,
+    "Size":"Large",
+    "Colour":"Black"
     "Description":"Pull over sweater"
   }
 ]
