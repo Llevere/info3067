@@ -1,8 +1,11 @@
 [
   {
     "Name":"Apple",
-    Products: [
-      
+    "Products": [
+      "Id":"Air2",
+      "ProductName":"Airpods 2",
+      "GraphicName":"airpods2.jpeg",
+      "Cost", 70.0
     ]
   }
 ]
