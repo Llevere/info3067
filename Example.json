@@ -1,0 +1,167 @@
+[
+    {
+        "Name": "Apple",
+        "Products": [
+            {
+                "Id": "Air2",
+                "ProductName": "Airpods 2",
+                "GraphicName": "airpods2.jpeg",
+                "CostPrice": 70.0,
+                "MSRP": 179.0,
+                "QtyOnHand": 20,
+                "QtyOnBackOrder": 150,
+                "Description": "This is a wireless headphones that provide you great sound quality at a cheap price."
+            },
+            {
+                "Id": "Air3",
+                "ProductName": "Airpods 3",
+                "GraphicName": "airpods3.jpeg",
+                "CostPrice": 80.0,
+                "MSRP": 239.0,
+                "QtyOnHand": 26,
+                "QtyOnBackOrder": 250,
+                "Description": "This is a wireless headphones for those who loves good sound but appreciate original design."
+            },
+            {
+                "Id": "AirPro",
+                "ProductName": "Airpods Pro",
+                "GraphicName": "airpodsPro.jpeg",
+                "CostPrice": 120.0,
+                "MSRP": 329.0,
+                "QtyOnHand": 50,
+                "QtyOnBackOrder": 178,
+                "Description": "This is a wireless headphones with ANC for those who doesn't want to be distracted from favourite music."
+            },
+            {
+                "Id": "AirMax",
+                "ProductName": "Airpods Max",
+                "GraphicName": "airpodsMax.jpeg",
+                "CostPrice": 200.0,
+                "MSRP": 779.0,
+                "QtyOnHand": 13,
+                "QtyOnBackOrder": 100,
+                "Description": "This is an overhead wireless headphones for people who want to be fully emmersed into the music."
+            },
+            {
+                "Id": "Ear1",
+                "ProductName": "Earpods",
+                "GraphicName": "earpods1.jpeg",
+                "CostPrice": 5.0,
+                "MSRP": 25.0,
+                "QtyOnHand": 10,
+                "QtyOnBackOrder": 23,
+                "Description": "This is the original headphones from Apple that you all know and love."
+            }
+        ]
+    },
+    {
+        "Name": "Beats",
+        "Products": [
+            {
+                "Id": "BSB+",
+                "ProductName": "Beats Studio Buds+",
+                "GraphicName": "bdbPlus.jpeg",
+                "CostPrice": 90.0,
+                "MSRP": 229.95,
+                "QtyOnHand": 30,
+                "QtyOnBackOrder": 50,
+                "Description": "This is an enhance version for those who tried and loved our Beats Studio Buds."
+            },
+            {
+                "Id": "BFP",
+                "ProductName": "Beats Fit Pro",
+                "GraphicName": "bfp.jpeg",
+                "CostPrice": 85.0,
+                "MSRP": 249.95,
+                "QtyOnHand": 40,
+                "QtyOnBackOrder": 90,
+                "Description": "These wireless headphones are made for the active part of our community. They stay in your ear no matter what sport you are doing."
+            },
+            {
+                "Id": "BSB",
+                "ProductName": "Beats Studio Buds",
+                "GraphicName": "bdb.jpeg",
+                "CostPrice": 64.0,
+                "MSRP": 189.95,
+                "QtyOnHand": 50,
+                "QtyOnBackOrder": 178,
+                "Description": "This is our the most popular model of headphones that combines \"pro\" technologies and cheap price."
+            },
+            {
+                "Id": "BFL",
+                "ProductName": "Beats Flex",
+                "GraphicName": "bFlex.jpeg",
+                "CostPrice": 20.0,
+                "MSRP": 89.95,
+                "QtyOnHand": 5,
+                "QtyOnBackOrder": 39,
+                "Description": "These headphones are made specially for thos who are afraid of losing one of their headpone all the time. They will stay on your neck just in case!"
+            },
+            {
+                "Id": "BSW",
+                "ProductName": "Beats Studio Wireless",
+                "GraphicName": "bsw.jpeg",
+                "CostPrice": 96.0,
+                "MSRP": 439.95,
+                "QtyOnHand": 4,
+                "QtyOnBackOrder": 18,
+                "Description": "These headphones are made for those who wants full size headphones but still have the same mobility and technologies on their head."
+            }
+        ]
+    },
+    {
+        "Name": "Sony",
+        "Products": [
+            {
+                "Id": "MDR-Z1R3392",
+                "ProductName": "Sony MDR-Z1R",
+                "GraphicName": "MDR-Z1R.jpeg",
+                "CostPrice": 800.0,
+                "MSRP": 2499.0,
+                "QtyOnHand": 1,
+                "QtyOnBackOrder": 3,
+                "Description": "70-mm HD driver unit. Our best headphones ever. Period."
+            },
+            {
+                "Id": "WH-5",
+                "ProductName": "Sony WH-1000XM5",
+                "GraphicName": "wh5.jpeg",
+                "CostPrice": 150.0,
+                "MSRP": 499.95,
+                "QtyOnHand": 100,
+                "QtyOnBackOrder": 1000,
+                "Description": "Our best selling headphones ever but this is a newer version and of course better."
+            },
+            {
+                "Id": "WH-4",
+                "ProductName": "Sony WH-1000XM4",
+                "GraphicName": "wh4.jpeg",
+                "CostPrice": 150.0,
+                "MSRP": 399.00,
+                "QtyOnHand": 22,
+                "QtyOnBackOrder": 19,
+                "Description": "This is our best headphones that we ever made. ANC, high quality sound, smart listening experience*."
+            },
+            {
+                "Id": "WF-4",
+                "ProductName": "Sony WF-1000XM4",
+                "GraphicName": "wf4.jpeg",
+                "CostPrice": 49.0,
+                "MSRP": 199.00,
+                "QtyOnHand": 32,
+                "QtyOnBackOrder": 10,
+                "Description": "These are the true wireless noice cancelling heaphones. It's great choise for those who always want to stay connected even when their hadns are busy."
+            },
+            {
+                "Id": "INZ-H9",
+                "ProductName": "Sony INZONE H9",
+                "GraphicName": "inz9.jpeg",
+                "CostPrice": 75.0,
+                "MSRP": 399.0,
+                "QtyOnHand": 7,
+                "QtyOnBackOrder": 16,
+                "Description": "These headphones are made for our best games who want to hear every step of their enemies and every bullet flying over their head."
+            }
+        ]
+    } 
+]
