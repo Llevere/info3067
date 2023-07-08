@@ -11,8 +11,8 @@
         "QtyOnHand":28,
         "QtyOnBackOrder":33,
         "Size":"Large",
-        "Colour":"Black"
-        "Description":"Pull over sweater"
+        "Colour":"Black",
+        "Description":"Pull over sweater",
       }
     ]
   }
