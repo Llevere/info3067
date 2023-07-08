@@ -1,0 +1,13 @@
+[
+  {
+    "Name":"Nike",
+    "Id":"BlackSweater",
+    "ProductName":"Black Sweater",
+    "GraphicName":"blacksweater.jpeg",
+    "Cost": 70.0,
+    "MSRP":100.0,
+    "QtyOnHand":28,
+    "QtyOnBackOrder":33,
+    "Description":"Pull over sweater"
+  }
+]
