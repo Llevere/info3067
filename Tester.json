@@ -2,10 +2,16 @@
   {
     "Name":"Apple",
     "Products": [
+      {
       "Id":"Air2",
       "ProductName":"Airpods 2",
       "GraphicName":"airpods2.jpeg",
-      "Cost", 70.0
+      "Cost": 70.0,
+      "MSRP":179.0,
+      "QtyOnHand":20,
+      "QtyOnBackOrder":150,
+      "Description":"Wiresless earbuds"
+      }
     ]
   }
 ]
