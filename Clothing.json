@@ -15,7 +15,7 @@
         "Description":"Pull over sweater"
       },
       {
-        "Id":"BlackSweater",
+        "Id":"black",
         "ProductName":"Black Sweater",
         "GraphicName":"blacksweater.jpeg",
         "Cost": 70.0,
