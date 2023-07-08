@@ -1,4 +1,17 @@
 [
-  { "Id":"NikeSweater","BRAND":"Nike", "ITEM":"Sweater", "COLOUR":"Black", "SIZE": "Large", "COST":40.99, "MSRP":39.99, "QtyOnBackOrder":0, "QtyOnHand":22, "GraphicName":"What?", "DESCRIPTION":"Clothing" },
-
+  { "Id":"NikeSweater","Name":"Nike", "ProductName":"Sweater", "GraphicName":"What?", "Colour":"Black", "Size": "Large", "Cost":40.9, "MSRP":39.9, "QtyOnBackOrder":1, "QtyOnHand":22, "DESCRIPTION":"Clothing" },
+  { "Id":"NikeSweatpants","Name":"Nike", "ProductName":"Sweatpants", "Colour":"Red", "Size": "Small", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"NikeShirt","Name":"Nike", "ProductName":"T-Shirt", "Colour":"White", "Size": "Extra Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"NikeSweater","Name":"Nike", "ProductName":"Sweater", "Colour":"Green", "Size": "Extra Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"NikeSocks","Name":"Nike", "ProductName":"Socks", "Colour":"White", "Size": "Medium", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"UnderArmourSocks","Name":"Under Armour", "ProductName":"Socks", "Colour":"White", "Size": "Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"UnderArmourShorts","Name":"Under Armour", "ProductName":"Shorts", "Colour":"Black", "Size": "Extra Extra Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"UnderArmourSweater","Name":"Under Armour", "ProductName":"Sweater", "Colour":"White", "Size": "Extra Small", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"UnderArmourHeadband","Name":"Under Armour", "ProductName":"Headband", "Colour":"Grey", "Size": "Medium", "Cost":"9.99", "MSRP":"6.99", "QtyOnBackOrder":"0", "QtyOnHand":"6", "GraphicName":"What?", "DESCRIPTION":"Accessory" },
+  { "Id":"UnderArmourShoes","Name":"Under Armour", "ProductName":"Shoes", "Colour":"Yellow", "Size": "Medium", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Shoes" },
+  { "Id":"ChampionSocks","Name":"Champion", "ProductName":"Socks", "Colour":"White", "Size": "Extra Small", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"ChampionSweatpants","Name":"Champion", "ProductName":"Sweatpants", "Colour":"Black", "Size": "Extra Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"ChampionHat","Name":"Champion", "ProductName":"Hat", "Colour":"Red", "Size": "Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Accessory" },
+  { "Id":"ChampionSweater","Name":"Champion", "ProductName":"Sweater", "Colour":"White", "Size": "Large", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
+  { "Id":"ChampionShirt", "Name":"Champion", "ProductName":"T Shirt", "Colour":"Red", "Size": "Medium", "Cost":"40.99", "MSRP":"39.99", "QtyOnBackOrder":"0", "QtyOnHand":"22", "GraphicName":"What?", "DESCRIPTION":"Clothing" },
 ]
