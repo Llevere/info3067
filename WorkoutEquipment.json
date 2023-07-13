@@ -25,7 +25,7 @@
             {
                 "Id": "FlatBench",
                 "ProductName": "Flat Bench",
-                "GraphicName": "FlatBench.jpeg",
+                "GraphicName": "FlatBench.jpg",
                 "CostPrice": 260.0,
                 "MSRP": 200.0,
                 "QtyOnHand": 46,
@@ -35,7 +35,7 @@
             {
                 "Id": "AdjustableBench",
                 "ProductName": "Adjustable Bench",
-                "GraphicName": "AdjustableBench.jpeg",
+                "GraphicName": "AdjustableBench.jpg",
                 "CostPrice": 831.0,
                 "MSRP": 650.0,
                 "QtyOnHand": 21,
@@ -45,7 +45,7 @@
             {
                 "Id": "LacrosseBall",
                 "ProductName": "Lacrosse Ball",
-                "GraphicName": "LacrosseBall.jpeg",
+                "GraphicName": "LacrosseBall.jpg",
                 "CostPrice": 7.0,
                 "MSRP": 5.0,
                 "QtyOnHand": 55,
