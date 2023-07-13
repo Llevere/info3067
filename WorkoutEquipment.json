@@ -125,7 +125,7 @@
             {
                 "Id": "R-Series_Treadmill",
                 "ProductName": "R-Series Tradmill",
-                "GraphicName": "R-SeriesTreadmill.jpeg",
+                "GraphicName": "R-SeriesTreadmill.png",
                 "CostPrice": 8000.0,
                 "MSRP": 2500.0,
                 "QtyOnHand": 7,
@@ -135,7 +135,7 @@
             {
                 "Id": "FunctionalTrainer",
                 "ProductName": "Functional Trainer, Tall",
-                "GraphicName": "FunctionalTrainer.jpeg",
+                "GraphicName": "FunctionalTrainer.png",
                 "CostPrice": 9750.0,
                 "MSRP": 5500.00,
                 "QtyOnHand": 3,
@@ -145,7 +145,7 @@
             {
                 "Id": "BodyArcTrainer",
                 "ProductName": "Body Arc Trainer",
-                "GraphicName": "BodyArcTrainer.jpeg",
+                "GraphicName": "BodyArcTrainer.png",
                 "CostPrice": 2895.0,
                 "MSRP": 1750.00,
                 "QtyOnHand": 4,
@@ -155,7 +155,7 @@
             {
                 "Id": "RecumbentBike",
                 "ProductName": "Recumbent Bike",
-                "GraphicName": "RecumbentBike.jpeg",
+                "GraphicName": "RecumbentBike.png",
                 "CostPrice": 2000.0,
                 "MSRP": 1250.0,
                 "QtyOnHand": 3,
