@@ -60,7 +60,7 @@
             {
                 "Id": "HalfRack",
                 "ProductName": "Elite Half Rack",
-                "GraphicName": "EliteHalfRack.jpeg",
+                "GraphicName": "EliteHalfRack.jpg",
                 "CostPrice": 4990.0,
                 "MSRP": 2000.0,
                 "QtyOnHand": 7,
@@ -80,7 +80,7 @@
             {
                 "Id": "PowerRack",
                 "ProductName": "Elite Power Rack",
-                "GraphicName": "ElitePowerRack.jpeg",
+                "GraphicName": "ElitePowerRack.jpg",
                 "CostPrice": 7000.0,
                 "MSRP": 3500.0,
                 "QtyOnHand": 8,
