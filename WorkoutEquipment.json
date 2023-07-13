@@ -5,7 +5,7 @@
             {
                 "Id": "SteelBarbell",
                 "ProductName": "The Ohio Bar",
-                "GraphicName": "OhioBar.jpeg",
+                "GraphicName": "OhioBar.png",
                 "CostPrice": 481.0,
                 "MSRP": 500.0,
                 "QtyOnHand": 40,
@@ -15,7 +15,7 @@
             {
                 "Id": "CardioBike",
                 "ProductName": "Echo Bike V3.0",
-                "GraphicName": "EchoBike.jpeg",
+                "GraphicName": "EchoBike.png",
                 "CostPrice": 1292.0,
                 "MSRP": 1100.0,
                 "QtyOnHand": 32,
@@ -60,7 +60,7 @@
             {
                 "Id": "HalfRack",
                 "ProductName": "Elite Half Rack",
-                "GraphicName": "HalfRack.jpeg",
+                "GraphicName": "EliteHalfRack.jpeg",
                 "CostPrice": 4990.0,
                 "MSRP": 2000.0,
                 "QtyOnHand": 7,
@@ -70,7 +70,7 @@
             {
                 "Id": "SeatedDipMachine",
                 "ProductName": "Seated Dip Machine",
-                "GraphicName": "SeatedDipMachine.jpeg",
+                "GraphicName": "SeatedDipMachine.png",
                 "CostPrice": 2395.0,
                 "MSRP": 1750.00,
                 "QtyOnHand": 4,
@@ -80,7 +80,7 @@
             {
                 "Id": "PowerRack",
                 "ProductName": "Elite Power Rack",
-                "GraphicName": "PowerRack.jpeg",
+                "GraphicName": "ElitePowerRack.jpeg",
                 "CostPrice": 7000.0,
                 "MSRP": 3500.0,
                 "QtyOnHand": 8,
@@ -90,7 +90,7 @@
             {
                 "Id": "VSquatMachine",
                 "ProductName": "V Squat Machine",
-                "GraphicName": "vSquatMachine.jpeg",
+                "GraphicName": "vSquatMachine.png",
                 "CostPrice": 3295.0,
                 "MSRP": 2100.0,
                 "QtyOnHand": 3,
@@ -100,7 +100,7 @@
             {
                 "Id": "LinearHackSquat",
                 "ProductName": "Linear Hack Squat Press",
-                "GraphicName": "HackSquat.jpeg",
+                "GraphicName": "HackSquat.png",
                 "CostPrice": 4900.0,
                 "MSRP": 3100.0,
                 "QtyOnHand": 2,
