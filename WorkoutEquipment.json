@@ -10,7 +10,7 @@
                 "MSRP": 500.0,
                 "QtyOnHand": 40,
                 "QtyOnBackOrder": 122,
-                "Description": "This is a wireless headphones that provide you great sound quality at a cheap price."
+                "Description": "A 45 pound barbell that you can put weighted plates on."
             },
             {
                 "Id": "CardioBike",
@@ -30,7 +30,7 @@
                 "MSRP": 200.0,
                 "QtyOnHand": 46,
                 "QtyOnBackOrder": 14,
-                "Description": "This is a wireless headphones with ANC for those who doesn't want to be distracted from favourite music."
+                "Description": "A bench that is fixed to one angle."
             },
             {
                 "Id": "AdjustableBench",
@@ -50,7 +50,7 @@
                 "MSRP": 5.0,
                 "QtyOnHand": 55,
                 "QtyOnBackOrder": 17,
-                "Description": "This is the original headphones from Apple that you all know and love."
+                "Description": "A ball that is not very hard and not very squishy. Use to get into the deep tissue of the body for knots."
             }
         ]
     },
