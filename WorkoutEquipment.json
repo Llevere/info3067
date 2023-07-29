@@ -17,10 +17,10 @@
                 "ProductName": "Echo Bike V3.0",
                 "GraphicName": "EchoBike.png",
                 "CostPrice": 1292.0,
-                "MSRP": 1100.0,
-                "QtyOnHand": 32,
-                "QtyOnBackOrder": 4,
-                "Description": "This is a wireless headphones for those who loves good sound but appreciate original design."
+                "MSRP": 599.99,
+                "QtyOnHand": 1,
+                "QtyOnBackOrder": 0,
+                "Description": "An Echo Bike for Cardio."
             },
             {
                 "Id": "FlatBench",
@@ -37,10 +37,10 @@
                 "ProductName": "Adjustable Bench",
                 "GraphicName": "AdjustableBench.jpg",
                 "CostPrice": 831.0,
-                "MSRP": 650.0,
-                "QtyOnHand": 21,
-                "QtyOnBackOrder": 33,
-                "Description": "This is an overhead wireless headphones for people who want to be fully emmersed into the music."
+                "MSRP": 509.99,
+                "QtyOnHand": 1,
+                "QtyOnBackOrder": 0,
+                "Description": "A bench that can be set to various angles."
             },
             {
                 "Id": "LacrosseBall",
